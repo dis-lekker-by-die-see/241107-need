@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2015", // Set target to ES2015 or higher
+    "lib": ["DOM", "ES2015"], // Include ES2015 to support Promise
+    "outDir": "./js", // Output directory for compiled JS files
+    "module": "commonjs", // Use CommonJS modules for compatibility
+    "strict": true, // Enable strict type-checking options
+    "esModuleInterop": true // Ensures compatibility with CommonJS modules
+  },
+  "include": [
+    "ts/**/*.ts" // Include all TypeScript files in the 'ts' directory
+  ]
+}

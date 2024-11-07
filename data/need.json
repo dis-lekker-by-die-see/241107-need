@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "name": "Food",
+      "items": [
+        {
+          "name": "Eggs",
+          "status": "Need Now",
+          "timestamp": "2024-11-07T00:00:00Z"
+        },
+        {
+          "name": "Milk",
+          "status": "Always Need",
+          "timestamp": "2024-11-07T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Toiletries",
+      "items": [
+        {
+          "name": "Toothpaste",
+          "status": "Need Later",
+          "timestamp": "2024-11-07T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}
